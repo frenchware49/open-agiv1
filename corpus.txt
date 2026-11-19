@@ -1,0 +1,9 @@
+Yapay zeka, makinelerin insan gibi öğrenme, anlama ve karar verme yeteneğidir. Bu alan, bilgisayar biliminin en heyecan verici dallarından biridir. Makine öğrenmesi, verilerden desenler çıkararak modeller oluşturur. Sinir ağları, insan beyninden ilham alan hesaplama sistemleridir. Her sinir ağı katmanı, girdiyi dönüştürerek daha anlamlı hale getirir. Geri yayılım, ağın hatalarından öğrenmesini sağlar. Derin öğrenme, birçok katmanlı sinir ağlarının eğitilmesidir.
+
+Dil modelleri metin üretir, soruları cevaplar ve dilleri çevirir. Transformer mimarisi, dikkat mekanizmasını kullanarak kelimeler arasındaki ilişkileri öğrenir. Öz-dikkat, her kelimenin diğer kelimelerle nasıl ilişkili olduğunu hesaplar. Konum kodlaması, kelimelerin sırasını modele bildirir. Çok başlı dikkat, farklı ilişkileri aynı anda yakalar.
+
+Bir ajan, hedefleri olan ve araç kullanabilen yazılım sistemidir. Ajanlar plan yapar, hafıza tutar ve çevrelerinden geri bildirim alır. Özerk ajanlar kendi hedeflerini üretebilir. Dünya modeli, eylemlerin sonuçlarını tahmin etmeyi sağlar. Sürekli öğrenme, sistemin deneyimle gelişmesidir. Meta öğrenme, öğrenmeyi öğrenmektir.
+
+Bilgi grafiği, varlıklar ve aralarındaki ilişkilerden oluşur. Vektör hafıza, metinleri sayısal vektörlere çevirip benzerlik araması yapar. Araç kullanımı, dil modelinin hesap makinesi, dosya sistemi veya internet gibi dış kaynaklara erişmesidir. Çok ajanlı sistemlerde uzmanlar birlikte çalışır.
+
+Açık kaynak yapay zeka, herkesin erişebildiği ve geliştirebildiği modeller demektir. Şeffaflık, güvenilir yapay zekanın temelidir. Genel yapay zeka henüz yoktur; bu yönde atılan adımlar deneysel ve umut vericidir. Araştırma, sabır ve işbirliği bu yolculuğun en önemli parçalarıdır.

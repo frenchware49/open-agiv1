@@ -1,0 +1,27 @@
+name: Java Build & Eval
+
+on:
+  push:
+    branches: [ master, main ]
+  pull_request:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: JDK kurulumu
+        uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: '21'
+
+      - name: Derle (Java 8 bytecode)
+        run: |
+          mkdir -p out-agent
+          javac --release 8 -encoding UTF-8 -Xlint:-options -d out-agent \
+            src/neuralnet/*.java src/agent/*.java src/agent/tools/*.java src/agent/ui/*.java
+
+      - name: LLM'siz değerlendirme
+        run: printf '/eval\nexit\n' | java -cp out-agent agent.Main

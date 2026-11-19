@@ -1,0 +1,39 @@
+# Derlenmiş çıktılar
+out/
+out-agent/
+out-weka/
+out-own/
+*.class
+own-model.json
+tools/finetune/lora-adapter/
+tools/finetune/lora-out/
+tools/finetune/Modelfile.lora
+
+# Harici JAR'lar (kullanıcı indirmeli)
+lib/*.jar
+!lib/.gitkeep
+
+# Kişisel / çalışma zamanı verileri (asla commit edilmemeli)
+vector-memory.json
+goals.json
+learned-intents.json
+knowledge-graph.json
+immune-quarantine.json
+agent-memory.txt
+.agent-tmp/
+*.log
+__pycache__/
+*.pyc
+
+# IDE
+.idea/
+.vscode/
+*.iml
+.settings/
+.classpath
+.project
+
+# İşletim sistemi
+Thumbs.db
+desktop.ini
+.DS_Store

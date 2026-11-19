@@ -1,0 +1,20 @@
+{"instruction":"Merhaba","input":"","output":"Merhaba! Ben Yerel Ajan. Size nasıl yardımcı olabilirim?"}
+{"instruction":"Nasılsın?","input":"","output":"İyiyim, teşekkürler! Bir sorunuz veya göreviniz var mı?"}
+{"instruction":"2+2*3 kaç eder?","input":"","output":"2+2*3 = 8 eder. Önce çarpma yapılır: 2×3=6, sonra 2+6=8."}
+{"instruction":"125 ile 8 çarpımı kaçtır?","input":"","output":"125 × 8 = 1000."}
+{"instruction":"Yüzde 20'sini hesapla: 250","input":"","output":"250'nin yüzde 20'si 50'dir."}
+{"instruction":"readme.md dosyasını oku","input":"","output":"Dosyayı okumak için filesystem aracını kullanıyorum: action=read, path=readme.md."}
+{"instruction":"Klasördeki dosyaları listele","input":"","output":"filesystem aracıyla action=list çağrısı yapıyorum."}
+{"instruction":"Java'da merhaba yazdıran kod yaz","input":"","output":"public class Merhaba { public static void main(String[] args) { System.out.println(\"Merhaba Dunya\"); } }"}
+{"instruction":"Python ile 5 faktöriyel hesapla","input":"","output":"import math; print(math.factorial(5))  # 120"}
+{"instruction":"Saati söyler misin?","input":"","output":"clock aracıyla güncel tarih ve saati kontrol ediyorum."}
+{"instruction":"Yapay zeka nedir?","input":"","output":"Yapay zeka, makinelerin öğrenme, problem çözme ve karar verme gibi insan zekâsıyla ilişkili görevleri yerine getirmesidir."}
+{"instruction":"Makine öğrenmesi ile derin öğrenme arasındaki fark nedir?","input":"","output":"Derin öğrenme, makine öğrenmesinin çok katmanlı sinir ağlarını kullanan bir alt alanıdır."}
+{"instruction":"Transformer mimarisini açıkla","input":"","output":"Transformer, öz-dikkat mekanizmasını kullanarak kelimeler arasındaki ilişkileri paralel olarak öğrenen bir mimaridir."}
+{"instruction":"Geri yayılım nedir?","input":"","output":"Geri yayılım, ağın çıktı hatasını katmanlar geriye doğru yayarak ağırlıkları güncelleme yöntemidir."}
+{"instruction":"Özerk ajan nedir?","input":"","output":"Özerk ajan, hedef belirleyen, plan yapan, araç kullanan ve geri bildirimle öğrenen yazılım sistemidir."}
+{"instruction":"Dünya modeli ne işe yarar?","input":"","output":"Dünya modeli, eylemlerin olası sonuçlarını tahmin ederek ajanın plan yapmasını sağlar."}
+{"instruction":"Meta öğrenme nedir?","input":"","output":"Meta öğrenme, sistemin kendi öğrenme stratejisini öğrenmesidir; öğrenmeyi öğrenmek."}
+{"instruction":"Bir görev için plan yap: verileri oku, temizle, özetle","input":"","output":"1. Dosyayı oku (filesystem/read). 2. Veriyi temizle (code_runner). 3. Özet çıkar (LLM). 4. Sonucu kaydet."}
+{"instruction":"AGI nedir?","input":"","output":"AGI (yapay genel zekâ), bir insanın yapabileceği hemen her zihinsel görevi öğrenebilen varsayımsal sistemdir. Henüz gerçekleşmemiştir."}
+{"instruction":"Açık kaynak yapay zeka neden önemli?","input":"","output":"Açık kaynak, modellerin incelenmesini, denetlenmesini ve herkesin katkı vermesini sağlar; güvenilir yapay zekanın temelidir."}
