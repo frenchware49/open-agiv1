@@ -14,8 +14,6 @@ Açık, bağımlılıksız Java ile yazılmış yerel ajan mimarisi — **deneys
 > sonra **kullanılabilirliği ve uygulanabilirliği** önemlidir. Projeyi aldıktan sonra
 > lütfen **geliştirmeye odaklanın**. Bu iddialı bir projedir ve aynı zamanda açık
 > kaynak kodludur.
->
-> **Durum:** Proje bakımda olduğu için henüz yayınlanmadı — **yakında yayınlanacaktır.**
 
 > **Dürüst bir not:** Bu proje henüz bir **AGI değildir**. AGI'ye giden yolda, tamamen
 > şeffaf ve bağımlılıksız Java ile yazılmış **deneysel bir ajan mimarisi**dir.
